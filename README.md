@@ -3,7 +3,12 @@ I'm currently pursuing a degree in Bachelors of Science in Infotronic Systems En
 # 👀 I’m interested in 
 I'm passionate about Machine Learning and cybersecurity and I am diving deep into Python, java Language to enhance my skills. 
 # 🌱 I’m currently learning ...
-Deepening my understanding of data structures, algorithms, and web technologies
+- MySql
+- MATLAB
+- Python
+- MIPS
+- Machine Learning
+- Networking 
 # 💞️ I’m looking to collaborate on ...
 Small personal projects to enhance my skills in Artificial intelligence, Machine Learning also front-end and back-end development.
 # 📫 How to reach me ...
