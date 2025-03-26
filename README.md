@@ -12,8 +12,8 @@ I'm passionate about Machine Learning and cybersecurity and I am diving deep int
 # 💞️ I’m looking to collaborate on ...
 Small personal projects to enhance my skills in Artificial intelligence, Machine Learning also front-end and back-end development.
 # 📫 How to reach me ...
-Email: sufyannkhan56@gmail.com
-LinkedIn: https://www.linkedin.com/in/muhammadsufyankhan
+- Email: sufyannkhan56@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muhammadsufyankhan
 
 
 <!---
